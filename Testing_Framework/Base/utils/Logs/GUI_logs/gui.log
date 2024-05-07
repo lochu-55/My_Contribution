@@ -1,0 +1,45 @@
+2024-05-06 17:24:29,194 : Base.Libraries.logging : INFO : checking whether {APP} is opening 
+2024-05-06 17:24:32,968 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:24:35,366 : Base.Libraries.logging : INFO : Editing text in notepad
+2024-05-06 17:24:37,911 : Base.Libraries.logging : INFO : checking that text edited correctly
+2024-05-06 17:24:37,911 : Base.Libraries.logging : INFO : Closing notepad
+2024-05-06 17:24:37,950 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:24:40,335 : Base.Libraries.logging : INFO : Editing text in notepad
+2024-05-06 17:24:42,301 : Base.Libraries.logging : INFO : Finding text in notepad
+2024-05-06 17:24:44,488 : Base.Libraries.logging : INFO : Closing notepad
+2024-05-06 17:24:44,494 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:24:46,898 : Base.Libraries.logging : INFO : Editing text in notepad
+2024-05-06 17:24:48,918 : Base.Libraries.logging : INFO : Replacing text in notepad
+2024-05-06 17:25:00,093 : Base.Libraries.logging : INFO : Closing notepad
+2024-05-06 17:25:00,154 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:25:02,520 : Base.Libraries.logging : INFO : Editing text in notepad
+2024-05-06 17:25:04,571 : Base.Libraries.logging : INFO : Changing Font,Font Style,Font Size for text
+2024-05-06 17:25:18,278 : Base.Libraries.logging : INFO : Closing notepad
+2024-05-06 17:25:18,365 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:25:20,663 : Base.Libraries.logging : INFO : Editing text in notepad
+2024-05-06 17:25:22,670 : Base.Libraries.logging : INFO : changing page setup settings
+2024-05-06 17:25:41,742 : Base.Libraries.logging : INFO : Closing notepad
+2024-05-06 17:25:41,755 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:25:44,212 : Base.Libraries.logging : INFO : printing date and time in file
+2024-05-06 17:25:46,563 : Base.Libraries.logging : INFO : Closing notepad
+2024-05-06 17:25:46,620 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:25:48,948 : Base.Libraries.logging : INFO : Editing text in notepad
+2024-05-06 17:25:50,964 : Base.Libraries.logging : INFO : printing file
+2024-05-06 17:25:53,520 : Base.Libraries.logging : INFO : Closing notepad
+2024-05-06 17:25:53,529 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:25:55,869 : Base.Libraries.logging : INFO : Editing text in notepad
+2024-05-06 17:25:57,890 : Base.Libraries.logging : INFO : selecting all the text and deleting and doing undo in notepad
+2024-05-06 17:26:04,772 : Base.Libraries.logging : INFO : Closing notepad
+2024-05-06 17:26:04,806 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:26:07,419 : Base.Libraries.logging : INFO : Editing text in notepad
+2024-05-06 17:26:09,314 : Base.Libraries.logging : INFO : zooming the text
+2024-05-06 17:26:14,897 : Base.Libraries.logging : INFO : Closing notepad
+2024-05-06 17:26:14,911 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:26:17,248 : Base.Libraries.logging : INFO : printing about notepad
+2024-05-06 17:26:19,674 : Base.Libraries.logging : INFO : Closing notepad
+2024-05-06 17:26:19,696 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:26:22,057 : Base.Libraries.logging : INFO : Editing text in notepad
+2024-05-06 17:26:24,134 : Base.Libraries.logging : INFO : checking that the file saved successfully
+2024-05-06 17:26:33,125 : Base.Libraries.logging : INFO : opening notepad
+2024-05-06 17:26:35,525 : Base.Libraries.logging : INFO : Opening existing file notepad
+2024-05-06 17:26:40,000 : Base.Libraries.logging : INFO : Closing notepad
