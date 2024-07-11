@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bde83f9f-30b5-4a55-a270-cd6f5442dec8" name="Changes" comment="" />
+    <list default="true" id="82b646dd-abb0-4d9d-8e56-24ae72c47a9d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2g7iXDJxIGe8HbQiPmpUAzGBMJo" />
+  <component name="ProjectId" id="2g5Z2pN808VrCqY46f1QmbQbnei" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +22,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/vlab/Desktop/Testing_Framework"
+    "last_opened_file_path": "C:/Users/vlab/Desktop/Company_training/Testing_Framework"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -35,11 +35,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bde83f9f-30b5-4a55-a270-cd6f5442dec8" name="Changes" comment="" />
-      <created>1715055058240</created>
+      <changelist id="82b646dd-abb0-4d9d-8e56-24ae72c47a9d" name="Changes" comment="" />
+      <created>1714989196185</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715055058240</updated>
+      <updated>1714989196185</updated>
     </task>
     <servers />
   </component>

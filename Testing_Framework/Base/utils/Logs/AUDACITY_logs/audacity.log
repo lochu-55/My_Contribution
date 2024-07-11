@@ -1,0 +1,35 @@
+2024-05-07 09:22:29,150 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:22:54,459 : Base.Libraries.logging : INFO : opening the audio file
+2024-05-07 09:23:04,815 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:23:25,242 : Base.Libraries.logging : INFO : opening the audio file
+2024-05-07 09:23:35,166 : Base.Libraries.logging : INFO : playing the audio file
+2024-05-07 09:23:45,360 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:24:05,847 : Base.Libraries.logging : INFO : opening the audio file
+2024-05-07 09:24:15,761 : Base.Libraries.logging : INFO : selecting the audio
+2024-05-07 09:24:15,987 : Base.Libraries.logging : INFO : calculating the rms values
+2024-05-07 09:24:29,193 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:24:51,453 : Base.Libraries.logging : INFO : opening the audio file
+2024-05-07 09:25:01,473 : Base.Libraries.logging : INFO : selecting the audio
+2024-05-07 09:25:01,684 : Base.Libraries.logging : INFO : amplifying the audio
+2024-05-07 09:25:20,290 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:25:40,386 : Base.Libraries.logging : INFO : opening the audio file
+2024-05-07 09:25:50,308 : Base.Libraries.logging : INFO : exporting plot analysis values
+2024-05-07 09:26:05,690 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:26:25,766 : Base.Libraries.logging : INFO : generating the noise
+2024-05-07 09:26:35,369 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:26:55,575 : Base.Libraries.logging : INFO : generating the silence
+2024-05-07 09:27:10,018 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:27:30,271 : Base.Libraries.logging : INFO : opening the audio file
+2024-05-07 09:27:40,220 : Base.Libraries.logging : INFO : selecting audio within specific period
+2024-05-07 09:28:07,102 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:28:27,130 : Base.Libraries.logging : INFO : opening the audio file
+2024-05-07 09:28:37,099 : Base.Libraries.logging : INFO : exporting the audio as mp3
+2024-05-07 09:28:49,051 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:29:09,562 : Base.Libraries.logging : INFO : opening the audio file
+2024-05-07 09:29:19,571 : Base.Libraries.logging : INFO : exporting the audio as wav
+2024-05-07 09:29:31,218 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:29:52,013 : Base.Libraries.logging : INFO : opening the audio file
+2024-05-07 09:30:01,942 : Base.Libraries.logging : INFO : exporting the audio as flac
+2024-05-07 09:30:13,728 : Base.Libraries.logging : INFO : launching audacity
+2024-05-07 09:30:33,922 : Base.Libraries.logging : INFO : opening the audio file
+2024-05-07 09:30:43,837 : Base.Libraries.logging : INFO : saving the audio file

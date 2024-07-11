@@ -1,0 +1,10 @@
+pytest==8.2.0
+pytest-html==4.1.1
+logging==0.4.9.6
+jsonschema==4.22.0
+requests==2.31.0
+iniconfig==2.0.0
+pillow==10.3.0
+pywinauto==0.6.8
+pyserial==3.5
+selenium==4.20.0

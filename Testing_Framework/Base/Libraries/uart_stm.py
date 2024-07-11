@@ -3,6 +3,7 @@ from pywinauto.timings import TimeoutError
 from time import sleep
 from Base.Elements.STM32_elements import STM
 from Base.Libraries.logging import logger
+# pylint: disable=import-error
 from serial import Serial
 
 obj = STM()
