@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employee>
+	<name>John Doe</name>
+	<age>35</age>
+	<job>
+		<title>Software Engineer</title>
+		<department>IT</department>
+		<years_of_experience>10</years_of_experience>
+	</job>
+	<address>
+		<street>123 Main St.</street>
+		<city>San Francisco</city>
+		<state>CA</state>
+		<zip>94102</zip>
+	</address>
+</employee>

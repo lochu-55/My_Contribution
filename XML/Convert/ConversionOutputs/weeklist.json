@@ -1,0 +1,32 @@
+{
+ "Weeklist": {
+  "Day1": {
+   "@id": "1",
+   "#text": "Sunday"
+  },
+  "Day2": {
+   "@id": "2",
+   "#text": "Monday"
+  },
+  "Day3": {
+   "@id": "3",
+   "#text": "Tuesday"
+  },
+  "Day4": {
+   "@id": "4",
+   "#text": "Wednesday"
+  },
+  "Day5": {
+   "@id": "5",
+   "#text": "Thursday"
+  },
+  "Day6": {
+   "@id": "6",
+   "#text": "Friday"
+  },
+  "Day7": {
+   "@id": "7",
+   "#text": "Saturday"
+  }
+ }
+}

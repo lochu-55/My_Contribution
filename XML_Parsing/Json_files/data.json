@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "food": [
+            {
+                "item": {
+                    "@name": "breakfast",
+                    "#text": "Idly"
+                },
+                "price": "$2.5",
+                "description": "Two idly's with chutney",
+                "calories": "553"
+            },
+            {
+                "item": {
+                    "@name": "breakfast",
+                    "#text": "Paper Dosa"
+                },
+                "price": "$2.7",
+                "description": "Plain paper dosa with chutney",
+                "calories": "700"
+            },
+            {
+                "item": {
+                    "@name": "breakfast",
+                    "#text": "Upma"
+                },
+                "price": "$3.65",
+                "description": "Rava upma with bajji",
+                "calories": "600"
+            },
+            {
+                "item": {
+                    "@name": "breakfast",
+                    "#text": "Bisi Bele Bath"
+                },
+                "price": "$4.50",
+                "description": "Bisi Bele Bath with sev",
+                "calories": "400"
+            },
+            {
+                "item": {
+                    "@name": "breakfast",
+                    "#text": "Kesari Bath"
+                },
+                "price": "$1.95",
+                "description": "Sweet rava with saffron",
+                "calories": "950"
+            }
+        ]
+    }
+}

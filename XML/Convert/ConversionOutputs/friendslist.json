@@ -1,0 +1,24 @@
+{
+    "friendslist": {
+        "friends": {
+            "friend": [
+                {
+                    "@id": "1",
+                    "#text": "Sree jyothsna"
+                },
+                {
+                    "@id": "2",
+                    "#text": "Deepika"
+                },
+                {
+                    "@id": "3",
+                    "#text": "Sarika"
+                },
+                {
+                    "@id": "4",
+                    "#text": "Lucky"
+                }
+            ]
+        }
+    }
+}
