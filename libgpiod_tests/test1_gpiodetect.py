@@ -4,7 +4,7 @@ import pytest
 def test_gpio_chip_detection():
     try:
         # Run gpiodetect command to list the available GPIO chips
-        result = subprocess.run(['gpiodetect'], stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
+        result = subprocess.run(['sudo','gpiodetect'], stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
         
         # Ensure the command ran successfully
         assert result.returncode == 0, f"Error detecting GPIO chips: {result.stderr.decode()}"

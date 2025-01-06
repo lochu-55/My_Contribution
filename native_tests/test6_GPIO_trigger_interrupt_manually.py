@@ -1,8 +1,13 @@
 import time
 import subprocess
 
+def set_gpio_direction():
+    command = f'echo out | sudo tee /sys/class/gpio/dummy0/direction'
+    subprocess.run(command, shell=True, check=True)
+    print("GPIO direction set to 'out'")
 
 def write_gpio_value(value):
+    set_gpio_direction()
     subprocess.run(f'echo {value} | sudo tee /sys/class/gpio/dummy0/value', shell=True)
 
 def read_gpio_value():

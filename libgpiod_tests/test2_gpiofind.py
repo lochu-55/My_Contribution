@@ -3,7 +3,7 @@ import pytest
 
 def get_gpio_lines():
     # Run gpioinfo to get details about GPIO lines
-    result = subprocess.run(['gpioinfo'], stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
+    result = subprocess.run(['sudo','gpioinfo'], stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
     if result.returncode != 0:
         raise Exception(f"Error running gpioinfo: {result.stderr.decode()}")
     
@@ -32,7 +32,7 @@ def test_gpio_find():
 
         # Check each GPIO line with gpiofind
         for line_name in gpio_lines:
-            result = subprocess.run(['gpiofind', line_name], stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
+            result = subprocess.run(['sudo','gpiofind', line_name], stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
             assert result.returncode == 0, f"Failed to find GPIO line {line_name}"
             print(f"GPIO line {line_name} found: {result.stdout.decode().strip()}")
     

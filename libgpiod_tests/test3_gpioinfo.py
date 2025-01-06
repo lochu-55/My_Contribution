@@ -3,7 +3,7 @@ import pytest
 
 def test_gpio_info():
     try:
-        result = subprocess.run(['gpioinfo'], stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
+        result = subprocess.run(['sudo','gpioinfo'], stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
         print("found the below gpio information: ")
         print(result)
         assert result.returncode == 0, f"Error fetching GPIO info: {result.stderr.decode()}"
