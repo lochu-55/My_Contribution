@@ -1,0 +1,19 @@
+2024-11-13 15:48:03,783 - INFO - starting test case : TB002
+2024-11-13 15:48:03,784 - INFO - HERE IS YOUR BOOKED TICKET DETAILS of TB002:
+Source: Kakinada
+Destination: Pitapuram
+Date: 2024-12-03
+Name: John
+Age: 21
+Phone Number: 9856743588
+
+2024-11-13 15:48:03,785 - INFO - Raw Expected Output from excel for Test Case ID TB002:
+Source: Kakinada
+Destination: Pitapuram
+Date: 2024-12-03
+Name: John
+Age: 21
+Phone Number: 9856743588
+
+2024-11-13 15:48:03,785 - INFO - Test Case ID TB002 PASSED: The booking details match.
+
